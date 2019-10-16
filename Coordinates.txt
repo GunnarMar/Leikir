@@ -1,0 +1,14 @@
+Home base
+258/64/-46
+
+Village
+-186/64/746
+
+skeleton spawner
+101 , 29 , -40
+
+portal 1
+355 , 85, 1693
+
+end portal?
+-966 , 65 , 37
